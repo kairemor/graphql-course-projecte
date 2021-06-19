@@ -174,5 +174,5 @@ const server = new GraphQLServer({
 });
 
 server.start(() => {
-	console.log("The server is running in port 8000");
+	console.log("The server is running in port 4000");
 });
